@@ -14,8 +14,8 @@ def greeting(name,language)
   puts "Hello #{name}! You are learning #{language}!"
 end
 
-def return_a_value
-
+def return_a_value(value)
+  puts "value"
 end
 
 def last_evaluated_value
