@@ -11,8 +11,7 @@ def argue(argue)
 end
 
 def greeting(name,language)
-  put "Hello #{name}! You are learning #{language}!"
-  
+  puts "Hello #{name}! You are learning #{language}!"
 end
 
 def return_a_value
